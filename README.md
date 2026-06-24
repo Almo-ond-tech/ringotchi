@@ -3,7 +3,7 @@
 ## add zine
 
 # Description
-A tamagotchi pet with an apple shape. The usb port plugs into the top of the apple to form the stem. The sprite for the pet is a cat with glasses to match the case. And it hase a pet worm because it lives in an apple. I made this following the tutorial for hackclub fallout: [https://fallout.hackclub.com/docs/guided-projects/tamagotchi].
+A tamagotchi pet with an apple shape. The usb port plugs into the top of the apple to form the stem. The sprite for the pet is a cat with glasses to match the case. And it has a pet worm because it lives in an apple. I made this following the tutorial for hackclub fallout: [https://fallout.hackclub.com/docs/guided-projects/tamagotchi].
 I like retro toys and I'm glad I get to make my own custom tamagotchi that I can personalise to do stuff. I'm thinking of adding extra stuff like a death screen and mini game but I'll just wait to build it in real life first. I also used this github as reference to program the jingles: https://github.com/FeFaxy/arduino_buzzer/blob/main/Twinkle_Twinkle_Little_Star.ino
 
 
