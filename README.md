@@ -1,6 +1,6 @@
 # ringotchi
 
-<img width="1410" height="2000" alt="ringotchi_zine3" src="https://github.com/user-attachments/assets/4447fd84-298e-4cd5-8750-81c09b223463" />
+<img width="705" height="1000" alt="ringotchi_zine3" src="https://github.com/user-attachments/assets/4447fd84-298e-4cd5-8750-81c09b223463" />
 
 
 
