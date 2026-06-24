@@ -1,6 +1,8 @@
 # ringotchi
 
-## add zine
+<img width="1410" height="2000" alt="ringotchi_zine3" src="https://github.com/user-attachments/assets/4447fd84-298e-4cd5-8750-81c09b223463" />
+
+
 
 # Description
 A tamagotchi pet with an apple shape. The usb port plugs into the top of the apple to form the stem. The sprite for the pet is a cat with glasses to match the case. And it has a pet worm because it lives in an apple. I made this following the tutorial for hackclub fallout: [https://fallout.hackclub.com/docs/guided-projects/tamagotchi].
